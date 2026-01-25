@@ -1,6 +1,6 @@
 **Quiz App (Spring Boot) — Backend**
 
-**Status**: IN PROGRESS — Core quiz and question REST APIs implemented; polishing, tests, and deployment pending.
+**Status**: IN PROGRESS Core quiz and question REST APIs implemented; polishing, tests, and deployment pending.
 
 **Overview**
 - **Purpose**: Lightweight backend for creating, serving, and grading quizzes. Designed as a RESTful Spring Boot service to support a frontend or mobile client.
@@ -59,7 +59,3 @@ Notes: Endpoint signatures are implemented in the controllers; see `QuestionCont
 
 **Contributing**
 - This project is in active development. Open issues or submit pull requests for features or fixes.
-
-**License**
-- (Add license information here)
-
