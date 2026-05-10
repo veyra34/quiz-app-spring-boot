@@ -49,13 +49,3 @@ Notes: Endpoint signatures are implemented in the controllers; see `QuestionCont
 	mvn spring-boot:run
 	```
 - The app listens on port `8080` by default; adjust `application.properties` to change DB connection or port.
-
-**Future scope / TODOs**
-- Add full integration and unit tests for services and controllers.
-- Add authentication/authorization (JWT) and per-user quiz history.
-- Add pagination and filtering for question listings.
-- Improve error handling and API validation.
-- Add Dockerfile and CI/CD pipeline for automated builds and deploys.
-
-**Contributing**
-- This project is in active development. Open issues or submit pull requests for features or fixes.
